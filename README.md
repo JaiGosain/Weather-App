@@ -14,9 +14,7 @@ A simple weather application that allows users to check the current weather of a
 
 ---
 
-## 📸 Demo
-
-![Weather App Screenshot](images/demo.png)
+## 📸 
 
 <img width="1402" height="827" alt="image" src="https://github.com/user-attachments/assets/0bb3827f-31c4-4bc4-b0b2-bb7f82a30dfb" />
 
